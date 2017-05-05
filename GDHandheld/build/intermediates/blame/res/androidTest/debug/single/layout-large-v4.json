@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_set_password_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_set_password_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_lock_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_lock_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_disclaimer_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_disclaimer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_activation_login_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_activation_login_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\gde_provision_progress_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\gde_provision_progress_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\gde_provision_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\gde_provision_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_pkcs_password_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_pkcs_password_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_common_header.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_common_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_login_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_login_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_welcome_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_welcome_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_learn_more_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_learn_more_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_bottom_line.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_bottom_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\bbd_block_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\bbd_block_view.xml"
+    }
+]

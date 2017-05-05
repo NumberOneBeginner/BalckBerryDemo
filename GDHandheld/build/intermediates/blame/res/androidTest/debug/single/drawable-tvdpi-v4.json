@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-tvdpi-v4\\gd_gtwear_confirmation.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-tvdpi-v4\\gd_gtwear_confirmation.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-tvdpi-v4\\gd_dot_indicator.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-tvdpi-v4\\gd_dot_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-tvdpi-v4\\gd_certificate.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-tvdpi-v4\\gd_certificate.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-tvdpi-v4\\split_billing_black_icon.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-tvdpi-v4\\split_billing_black_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-tvdpi-v4\\split_billing_notification.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-tvdpi-v4\\split_billing_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-tvdpi-v4\\bbd_logo.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-tvdpi-v4\\bbd_logo.png"
+    }
+]

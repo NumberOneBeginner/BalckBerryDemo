@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\bbd_logo.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\bbd_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\gd_gtwear_confirmation.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\gd_gtwear_confirmation.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\split_billing_black_icon.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\split_billing_black_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\gd_icon_splash_lock.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\gd_icon_splash_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\progress_bar_inner.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\progress_bar_inner.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\bbd_logo_tablet.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\bbd_logo_tablet.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\com_bbd_default_logo.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\com_bbd_default_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\gd_certificate.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\gd_certificate.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\progress_bar_outer.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\progress_bar_outer.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\bbd_logo_phone.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\bbd_logo_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\gd_sb_tutorial_covered.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\gd_sb_tutorial_covered.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\split_billing_notification.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\split_billing_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\gd_sb_tutorial_covered_magnifier.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\gd_sb_tutorial_covered_magnifier.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\gd_sb_tutorial_not_covered.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\gd_sb_tutorial_not_covered.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\secured_bbd_logo_phone.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\secured_bbd_logo_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\gd_dot_indicator.png",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\gd_dot_indicator.png"
+    }
+]

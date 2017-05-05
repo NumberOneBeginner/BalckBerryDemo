@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-large-xhdpi-v4\\values-large-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\values-large-xhdpi-v4\\values-large-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 53,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\values-large-xhdpi-v4\\values-large-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 53,
+                        "endOffset": 159
+                    }
+                }
+            }
+        ]
+    }
+]

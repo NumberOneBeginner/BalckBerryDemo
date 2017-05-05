@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_es",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_es"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_en",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_en"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_pt_pt",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_pt_pt"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_it",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_it"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_fr",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_fr"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_ja",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_ja"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_pt_br",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_pt_br"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_da",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_da"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_nl",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_nl"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\gd_lib_version.txt",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\gd_lib_version.txt"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_zh_cn",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_zh_cn"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_de",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_de"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_sv",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_sv"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\localizable_strings_ko",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\raw\\localizable_strings_ko"
+    }
+]

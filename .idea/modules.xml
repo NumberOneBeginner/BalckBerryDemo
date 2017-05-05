@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BalckBerryDemo.iml" filepath="$PROJECT_DIR$/BalckBerryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GDHandheld/GDHandheld.iml" filepath="$PROJECT_DIR$/GDHandheld/GDHandheld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

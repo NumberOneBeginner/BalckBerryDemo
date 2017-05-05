@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\bbd_activation_delegate_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\bbd_activation_delegate_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\bbd_split_billing_alert_dialog.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\bbd_split_billing_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\bbd_activation_login_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\bbd_activation_login_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_wearable_setup.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_wearable_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\bbd_set_password_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\bbd_set_password_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_wearable_activation_base.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_wearable_activation_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_activation_inprogress_post_validation.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_activation_inprogress_post_validation.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_activation_inprogress.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_activation_inprogress.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_activation_user_validation.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_activation_user_validation.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_wearable_complete.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_wearable_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\bbd_common_header.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\bbd_common_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_setup_notification_example.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_setup_notification_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_setup_stepitem.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_setup_stepitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_wearable_error.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_wearable_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\bbd_header_base.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\bbd_header_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\bbd_button_bar.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\bbd_button_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gde_provision_progress_view.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gde_provision_progress_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\gd_gtwear_activation_button_bar.xml",
+        "source": "C:\\Users\\peter\\AndroidStudioProjects\\BalckBerryDemo\\GDHandheld\\build\\intermediates\\bundles\\debug\\res\\layout-land\\gd_gtwear_activation_button_bar.xml"
+    }
+]
